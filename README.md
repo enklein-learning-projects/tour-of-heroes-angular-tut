@@ -1,6 +1,6 @@
 # AngularTourOfHeroes
 
-An project built in Angular following the [Tour of Heroes app tutorial](https://angular.io/tutorial).
+A project built in Angular following the [Tour of Heroes app tutorial](https://angular.io/tutorial).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
